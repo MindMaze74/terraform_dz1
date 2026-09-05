@@ -101,7 +101,7 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 
 >Ответ:
 <details>
-  <summary>Нажмите, чтобы увидеть резульаты по Задаче 2</summary>
+  <summary>Нажмите, чтобы увидеть результаты по Задаче 2* и листинг по всему дз</summary>
 
 >![задание 2*](https://github.com/MindMaze74/terraform_dz1/blob/main/img/12.png)
 
