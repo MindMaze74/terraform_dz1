@@ -20,7 +20,7 @@
 1. Репозиторий с ссылкой на зеркало для установки и настройки Terraform: [ссылка](https://github.com/netology-code/devops-materials).
 2. Установка docker: [ссылка](https://docs.docker.com/engine/install/ubuntu/). 
 
-![подготовка]((https://github.com/MindMaze74/terraform_dz1/blob/main/img/1.png)
+![подготовка](https://github.com/MindMaze74/terraform_dz1/blob/main/img/1.png)
 ------
 ### Внимание!! Обязательно предоставляем на проверку получившийся код в виде ссылки на ваш github-репозиторий!
 ------
