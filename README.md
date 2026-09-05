@@ -103,9 +103,9 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 <details>
   <summary>Нажмите, чтобы увидеть резульаты по Задаче 2</summary>
 
->>![задание 2](https://github.com/MindMaze74/terraform_dz1/blob/main/img/12.png)
+>![задание 2*](https://github.com/MindMaze74/terraform_dz1/blob/main/img/12.png)
 
-> Листинг команд и 
+> Листинг команд и результат
 ```bash
 user@ubuntu24:~/git/terraform_dz1/src$ cat terraform.tfstate | grep random_password
       "type": "random_password",
