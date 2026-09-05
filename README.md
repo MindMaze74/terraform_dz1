@@ -1178,6 +1178,8 @@ adminom@compute-vm-2-2-20-hdd-1788617917155:~$ exit
 logout
 Connection to 51.250.30.26 closed.
 ```
+</details>
+
 ### Правила приёма работы
 
 Домашняя работа оформляется в отдельном GitHub-репозитории в файле README.md.   
